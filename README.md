@@ -1,4 +1,4 @@
 FeedBack
 ========
 
-Comments and messages to me or post in my blog.
+Comments and messages to me or posts in my blog.
